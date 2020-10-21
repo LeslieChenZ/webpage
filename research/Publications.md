@@ -1,6 +1,6 @@
 ---
 permalink: /Research/publications
-title: "Research: Modified Date"
+title: "Publications"
 last_modified_at: 2020-10-21T15:18:02-05:00
 categories:
   - Research
