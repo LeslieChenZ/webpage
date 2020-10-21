@@ -1,11 +1,11 @@
 ---
-permalink: /Teaching/
+permalink: /teaching/
 title: ""
 last_modified_at: 2020-10-21T16:00:00-05:00
 categories:
   - Pages
 tags:
-  - Teaching
+  - teaching
   - links
 ---
 # Courses @ UMass Dartmouth
