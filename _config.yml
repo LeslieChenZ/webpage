@@ -50,12 +50,12 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-paginate # Pagination Generator for Jekyll.
+  - jekyll-sitemapJekyll # plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site.
+  - jekyll-gist # Liquid tag for displaying GitHub Gists in Jekyll sites.
+  - jekyll-feed # A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts.
   - jemoji
-  - jekyll-include-cache
+  - jekyll-include-cache # Liquid tag that caches Liquid includes.
 
 author:
   name   : "Zheng Chen"
