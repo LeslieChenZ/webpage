@@ -1,6 +1,6 @@
 ---
 permalink: /Short Bio/
-title: "Short Bio"
+title: ""
 last_modified_at: 
 categories:
   - Bio
