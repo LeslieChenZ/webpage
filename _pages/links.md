@@ -6,7 +6,6 @@ categories:
   - pages
 tags:
   - links
-  - tools
 ---
 
 # Links
@@ -21,17 +20,3 @@ tags:
 * [SIAM](http://www.siam.org/): Society for Industrial and Applied Mathematics
 * [AWM](https://sites.google.com/site/awmmath/): Association for Women in Mathematics
 * [IMA](http://www.ima.umn.edu/about/): The Institute for Mathematics and its Applications
-
-# Tools
-* [Desmos Graphing Calculator](https://www.desmos.com/calculator)
-* [MATLAB Online](https://matlab.mathworks.com/)
-* [MATLAB Drive Online](https://drive.matlab.com/)
-* [Wolfram Cloud](https://www.wolframcloud.com/)
-* [Wolfram Alpha](https://www.wolframalpha.com/)
-* [Overleaf](https://www.overleaf.com/) (collaborative cloud-based LaTeX editor)
-* [GitHub](https://github.com/)
-* [Bitbucket](https://bitbucket.org/)
-* [Slack](https://slack.com/)
-* [GitLab](https://code.ornl.gov/)
-* [Claire T. Carney Library](https://www.lib.umassd.edu/)
-* [Interlibrary Loan & Document Delivery Services](https://www.lib.umassd.edu/services/interlibrary-loan-services/)
