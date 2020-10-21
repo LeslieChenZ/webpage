@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /Short Bio/
 title: "Short Bio"
 ---
 
