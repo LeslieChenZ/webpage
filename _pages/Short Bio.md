@@ -1,7 +1,19 @@
 ---
 permalink: /Short Bio/
 title: "Short Bio"
+last_modified_at: 
+categories:
+  - Bio
+tags:
+  - bio
+  - cv
 ---
+<!--
+---
+permalink: /Short Bio/
+title: "Short Bio"
+---
+-->
 
 # Education
 * Ph.D. in Applied Mathematics, 2014, Brown University, RI, USA
