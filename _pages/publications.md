@@ -10,7 +10,9 @@ tags:
   - links
 ---
 
-# Publications
+# Publications 
+[Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
+
 * L. Mu and Z. Chen, A New WENO Weak Galerkin Finite Element Method for Time Dependent Hyperbolic Equations, Applied Numerical Mathematics (2020), in press. [link](https://www.sciencedirect.com/science/article/abs/pii/S0168927420302634)
 
 * M. P. Laiu, Z. Chen and C. D. Hauck, A fast implicit solver for semiconductor models in one space dimension, Journal of Computational Physics (2020): 109567. [link](https://www.sciencedirect.com/science/article/pii/S0021999120303417)
