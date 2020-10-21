@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 github_username: LeslieChenZ
 minimal_mistakes_skin: contrast
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Zheng Chen"
-  avatar : "/assets/images/headshot2"
+  avatar : "/assets/images/headshot2.jpg"
   bio    : "Assistant professor at UMass Dartmouth" #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Google Scholar"
