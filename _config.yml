@@ -94,17 +94,31 @@ footer:
 #       url: "https://instagram.com/"
 
 defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # research
+  - scope:
+      path: "research"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # teaching
+  - scope:
+      path: "teaching"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: "_pages"
