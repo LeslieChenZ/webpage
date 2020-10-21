@@ -1,5 +1,5 @@
 ---
-permalink: /Links/
+permalink: /links/
 title: ""
 last_modified_at: 2020-10-21T16:00:00-05:00
 categories:
