@@ -1,4 +1,7 @@
-# Research Topics
+---
+permalink: /research/Research Topics
+title: "Research Topics"
+---
 * High order numerical methods
   * Discontinuous Galerkin finite element methods
   * Spectral methods, etc.
