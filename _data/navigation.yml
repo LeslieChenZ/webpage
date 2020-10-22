@@ -7,6 +7,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Contact"
+    url: /contact/
   - title: "Links"
     url: /links/
   - title: "Tools"
