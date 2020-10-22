@@ -16,6 +16,7 @@ title: "Short Bio"
 -->
 
 # Education
+
 * Ph.D. in Applied Mathematics, 2014, Brown University, RI, USA
   * Advisor: Dr. Chi-Wang Shu
   
@@ -24,7 +25,9 @@ title: "Short Bio"
 * B.Sc. in Pure and Applied Mathematics, 2009, University of Science and Technology of China, Anhui, China
 
 
+
 # Professional Appointments
+
 * Assistant Professor, Department of Mathematics, University of Massachusetts Dartmouth, 2018 - present
 
 * Postdoctoral Research Associate,  Computational and Applied Mathematics Group, Computer Science and Mathematics Division, Oak Ridge National Laboratory, 2016-2018
