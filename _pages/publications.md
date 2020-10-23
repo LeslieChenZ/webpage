@@ -13,13 +13,15 @@ tags:
 # Publications 
 [Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
 
-* L. Mu and Z. Chen, A New WENO Weak Galerkin Finite Element Method for Time Dependent Hyperbolic Equations, Applied Numerical Mathematics (2020), in press. [link](https://www.sciencedirect.com/science/article/abs/pii/S0168927420302634)
+* L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, submitted (2020).
+
+* L. Mu and Z. Chen, A New WENO Weak Galerkin Finite Element Method for Time Dependent Hyperbolic Equations, Applied Numerical Mathematics (2020), 159: 106-124. [link](https://www.sciencedirect.com/science/article/abs/pii/S0168927420302634)
 
 * M. P. Laiu, Z. Chen and C. D. Hauck, A fast implicit solver for semiconductor models in one space dimension, Journal of Computational Physics (2020): 109567. [link](https://www.sciencedirect.com/science/article/pii/S0021999120303417)
 
 * Z. Chen and C. D. Hauck, Multiscale convergence properties for spectral approximations of a model kinetic equation, Mathematics of Computation 88.319 (2019): 2257-2293. [link](https://www.ams.org/journals/mcom/2019-88-319/S0025-5718-2018-03399-3/)
 
-* Z. Chen, L. Liu and L. Mu, DG-IMEX Stochastic Galerkin schemes for LinearTransport Equation with Random Inputs and Diffusive Scalings, Journal of Scientific Computing (2017), 73(2), 566-592. [link](https://link.springer.com/article/10.1007/s10915-017-0439-2)
+* Z. Chen, L. Liu and L. Mu, DG-IMEX Stochastic Galerkin schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Journal of Scientific Computing (2017), 73(2), 566-592. [link](https://link.springer.com/article/10.1007/s10915-017-0439-2)
 
 * H. Huang, Z. Chen, J. Li and J. Yan, Direct discontinuous Galerkin method and its variations for second order elliptic equations, Journal of Scientific Computing (2017), 70(2), 744-765. [link](https://link.springer.com/article/10.1007/s10915-016-0264-z)
 
