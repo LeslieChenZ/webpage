@@ -14,12 +14,13 @@ tags:
 * [MATLAB Drive Online](https://drive.matlab.com/)
 * [Wolfram Cloud](https://www.wolframcloud.com/)
 * [Wolfram Alpha](https://www.wolframalpha.com/)
-* [Overleaf](https://www.overleaf.com/) (collaborative cloud-based LaTeX editor)
+
+* [Overleaf](https://www.overleaf.com/) <!--(collaborative cloud-based LaTeX editor) -->
+* [Mendeley](https://www.mendeley.com/search/)
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 * [Slack](https://slack.com/)
 * [GitLab](https://code.ornl.gov/)
-* [Mendeley](https://www.mendeley.com/search/)
 * [Claire T. Carney Library](https://www.lib.umassd.edu/)
 * [Interlibrary Loan & Document Delivery Services](https://www.lib.umassd.edu/services/interlibrary-loan-services/)
 * [Jobaids](https://github.com/LeslieChenZ/UMassD)
