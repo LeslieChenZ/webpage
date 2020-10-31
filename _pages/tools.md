@@ -18,7 +18,7 @@ tags:
 <br> </br>
 
 * [Overleaf](https://www.overleaf.com/) <!--(collaborative cloud-based LaTeX editor) -->
-* [Mendeley](https://www.mendeley.com/search/)
+* [Mendeley](https://www.mendeley.com/)
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 * [Slack](https://slack.com/)
