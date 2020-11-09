@@ -13,6 +13,8 @@ main:
     url: /links/
   - title: "Tools"
     url: /tools/
+  - title: "Teaching/EAS502"
+    url: /EAS502
 #   - title: "Posts"
 #     url: /posts/
 #   - title: "Categories"
