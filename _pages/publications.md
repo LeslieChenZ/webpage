@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: ""
-last_modified_at: 2020-10-21T16:00:00-05:00
+last_modified_at: 2020-11-16T09:00:00-05:00
 categories:
   - pages
 tags:
