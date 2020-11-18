@@ -63,7 +63,7 @@ author:
   bio    : "Assistant professor at UMass Dartmouth" #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar-square"
+      icon: <i class="ai ai-google-scholar-square ai-3x"></i> # "fab fa-fw fa-google-scholar-square"
       url: "https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
