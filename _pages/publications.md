@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: ""
-last_modified_at: 2020-11-16T09:00:00-05:00
+last_modified_at: 2020-11-20T14:30:00-05:00
 categories:
   - pages
 tags:
@@ -13,7 +13,7 @@ tags:
 # Publications 
 [Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
 
-* L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, in revision (2020).
+* L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, accepted (2020).
 
 * L. Mu and Z. Chen, A New WENO Weak Galerkin Finite Element Method for Time Dependent Hyperbolic Equations, Applied Numerical Mathematics (2020), 159: 106-124. [link](https://www.sciencedirect.com/science/article/abs/pii/S0168927420302634)
 
