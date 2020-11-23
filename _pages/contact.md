@@ -12,7 +12,9 @@ tags:
 
 
 ### Address 
-Department of Mathematics, University of Massachusetts Dartmouth
+Department of Mathematics
+
+University of Massachusetts Dartmouth
 
 Dartmouth, MA 02747
 ### Email
