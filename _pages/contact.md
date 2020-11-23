@@ -12,7 +12,9 @@ tags:
 
 
 ### Address 
-Department of Mathematics, University of Massachusetts, Dartmouth, MA 02747
+Department of Mathematics, University of Massachusetts Dartmouth
+
+Dartmouth, MA 02747
 ### Email
 zchen2@umassd.edu
 ### Phone
