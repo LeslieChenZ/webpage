@@ -18,7 +18,8 @@ tags:
 <br>
 
 * [Overleaf](https://www.overleaf.com/) <!--(collaborative cloud-based LaTeX editor) -->
-* [Mendeley](https://www.mendeley.com/)
+* [Mendeley](https://www.mendeley.com/), 
+  [Mendeley Library](https://www.mendeley.com/reference-manager/library/)
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 * [Slack](https://slack.com/)
