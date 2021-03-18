@@ -9,7 +9,8 @@ tags:
   - links
 ---
 # Courses @ UMass Dartmouth
-* MTH 148 College Algebra (Fall 2020 [enhanced class], Spring 2021)
+* MTH 148 College Algebra [enhanced class] (Fall 2020, Fall 2021)
+* MTH 331 Probability (Fall 2021)
 * MTH 472/572 Numerical Methods for PDEs (Spring 2019, Spring 2020)
 * EAS 502 Numerical Methods (Fall 2018, Fall 2019, [Spring 2021](EAS502))
 
