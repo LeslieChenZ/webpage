@@ -13,7 +13,7 @@ tags:
 # Publications 
 [Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
 
-* Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, accpeted (2021).  [arXiv:2102.09157](https://arxiv.org/pdf/2102.09157.pdf).
+* Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, accpeted (2021).  [DOI](https://doi.org/10.3934/dcdss.2021070).<!--- ,[arXiv](https://arxiv.org/pdf/2102.09157.pdf). -->
 
 * L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, Commun. Appl. Math. Comput. (2021).  [DOI](https://doi.org/10.1007/s42967-020-00104-3), [Preprint](publications/LDG_FDE_Springer_repo.pdf)
 
