@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: ""
-last_modified_at: 2021-03-18T13:00:00-05:00
+last_modified_at: 2021-12-14
 categories:
   - Pages
 tags:
@@ -9,10 +9,10 @@ tags:
   - links
 ---
 # Courses @ UMass Dartmouth
-* MTH 148 College Algebra (Fall 2020 [enhanced class], Fall 2021)
-* MTH 331 Probability (Fall 2021)
-* MTH 472/572 Numerical Methods for PDEs (Spring 2019, Spring 2020)
-* EAS 502 Numerical Methods (Fall 2018, Fall 2019, Spring 2021)
+* [MTH 331 Probability](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171120) (Fall 2021)
+* [MTH 148 College Algebra](https://catalog.umassd.edu/preview_course_nopop.php?catoid=66&coid=226656) (Fall 2020 [enhanced class], Fall 2021)
+* MTH [472](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171132)/[572](https://catalog.umassd.edu/preview_course_nopop.php?catoid=64&coid=223426) Numerical Methods for PDEs (Spring 2019, Spring 2020)
+* [EAS 502 Numerical Methods](https://catalog.umassd.edu/preview_course_nopop.php?catoid=39&coid=136248) (Fall 2018, Fall 2019, Spring 2021)
 <!--- * EAS 502 Numerical Methods (Fall 2018, Fall 2019, [Spring 2021](EAS502)) -->
 
 # Courses @ ISU
