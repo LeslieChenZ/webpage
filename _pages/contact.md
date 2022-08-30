@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: ""
-last_modified_at: 2020-10-21T20:00:00-05:00
+last_modified_at: 2022-08-30T214:00:00-05:00
 categories:
   - pages
 tags:
@@ -19,7 +19,7 @@ University of Massachusetts Dartmouth
 Dartmouth, MA 02747
 
 ### Office
-LARTS-394E
+LARTS-396J
 ### Email
 zchen2@umassd.edu
 ### Phone
