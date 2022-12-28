@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: ""
-last_modified_at: 2020-11-20T14:30:00-05:00
+last_modified_at: 2022-12-28T16:30:00-05:00
 categories:
   - pages
 tags:
@@ -13,7 +13,9 @@ tags:
 # Publications 
 [Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
 
-* Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, accpeted (2021).  [DOI](https://doi.org/10.3934/dcdss.2021070), [Full Text(html)](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021070?viewType=html).<!--- ,[arXiv](https://arxiv.org/pdf/2102.09157.pdf). -->
+* L. Mu and Z. Chen, High Order IMEX Stochastic Galerkin Schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Communications on Applied Mathematics and Computation, accepted (2022).
+
+* Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, 2022, 15(4): 669-686. [DOI](https://doi.org/10.3934/dcdss.2021070), [Full Text(html)](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021070?viewType=html).<!--- ,[arXiv](https://arxiv.org/pdf/2102.09157.pdf). -->
 
 * L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, Commun. Appl. Math. Comput. 4, 227–249 (2022).  [DOI](https://doi.org/10.1007/s42967-020-00104-3), [Preprint](publications/LDG_FDE_Springer_repo.pdf)
 
