@@ -1,7 +1,7 @@
 ---
 permalink: /links/
 title: ""
-last_modified_at: 2021-12-14
+last_modified_at: 2023-2-6
 categories:
   - pages
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # Links
 * [Department of Mathematics](https://www.umassd.edu/cas/math/), UMass Dartmouth
-* [The Center for Scientific Computing and Data Science Research (CSCDR)](http://cscvr1.umassd.edu/index.html), UMass Dartmouth, [Gitlab page](https://gitlab.com/cscvr/)
+* [The Center for Scientific Computing and Data Science Research (CSCDR)](http://www.cscdr.umassd.edu:3000/), UMass Dartmouth, [Gitlab page](https://gitlab.com/cscvr/) <!--- * [The Center for Scientific Computing and Data Science Research (CSCDR)](http://cscvr1.umassd.edu/index.html), UMass Dartmouth, [Gitlab page](https://gitlab.com/cscvr/) ---> 
 * [Computational Science Seminars & Lunchtime Computing](http://cscvr1.umassd.edu/seminars.html), UMass Dartmouth
 <!-- * [Applied Mathematics Seminars](https://www.brown.edu/academics/applied-mathematics/seminars), Brown University -->
 * [Scientific Computing Group](http://www.dam.brown.edu/scicomp/), Brown University
