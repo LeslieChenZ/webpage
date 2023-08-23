@@ -19,7 +19,7 @@ University of Massachusetts Dartmouth
 Dartmouth, MA 02747
 
 ### Office
-LARTS-396J
+LARTS-394C
 ### Email
 zchen2@umassd.edu
 ### Phone
