@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: ""
-last_modified_at: 2023-2-15T13:00:00-05:00
+last_modified_at: 2023-11-20T11:00:00-05:00
 categories:
   - pages
 tags:
@@ -28,3 +28,5 @@ tags:
 
 
 <!-- [Click here for a poster on research projects.](https://lesliechenz.github.io/webpage/_pages/research_poster_20230223_UMassD_template_CAS_36x56.pdf)  -->
+
+### Click here for [Research Highlights](https://lesliechenz.github.io/webpage/_pages/research_highlight2023.pdf).
