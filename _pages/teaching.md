@@ -9,10 +9,12 @@ tags:
   - links
 ---
 # Courses @ UMass Dartmouth
-* [MTH 331 Probability](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171120) (Fall 2021, Fall 2022, Spring 2023)
-* [MTH 148 College Algebra](https://catalog.umassd.edu/preview_course_nopop.php?catoid=66&coid=226656) (Fall 2020 [enhanced class], Fall 2021)
-* MTH [472](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171132)/[572](https://catalog.umassd.edu/preview_course_nopop.php?catoid=64&coid=223426) Numerical Methods for PDEs (Spring 2019, Spring 2020)
-* [EAS 502 Numerical Methods](https://catalog.umassd.edu/preview_course_nopop.php?catoid=39&coid=136248) (Fall 2018, Fall 2019, Spring 2021, Fall 2022)
+* [MTH 148](https://catalog.umassd.edu/preview_course_nopop.php?catoid=66&coid=226656) College Algebra (Fall 2020 [enhanced class], Fall 2021, Spring 2024)
+* [MTH 150](https://catalog.umassd.edu/preview_course_nopop.php?catoid=73&coid=241774) Precalculus (Fall 2023)
+* [MTH 331](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171120) Probability (Fall 2021, Fall 2022, Spring 2023, Fall 2023)
+* [MTH 472](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171132)/[572](https://catalog.umassd.edu/preview_course_nopop.php?catoid=64&coid=223426) Numerical Methods for PDEs (Spring 2019, Spring 2020)
+* [MTH 474](https://catalog.umassd.edu/preview_course_nopop.php?catoid=12&coid=43546)[/574]() Numerical Optimization (Spring 2024)
+* [EAS 502](https://catalog.umassd.edu/preview_course_nopop.php?catoid=39&coid=136248) Numerical Methods (Fall 2018, Fall 2019, Spring 2021, Fall 2022)
 <!--- * EAS 502 Numerical Methods (Fall 2018, Fall 2019, [Spring 2021](EAS502)) -->
 
 # Courses @ ISU
