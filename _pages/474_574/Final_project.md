@@ -58,5 +58,5 @@ demonstrate your code, and provide a conclusion.
 Zoom. Zoom can show your presentation slides on the left and your camera on the right. This is similar to the
 style of my lecture videos.
 * If you show figures or other people's work, please cite the sources.
-* * Upload the mp4 file and presentation files (PowerPoint, Keynote, Markdown presentation, etc) to mycourses.
+* Upload the mp4 file and presentation files (PowerPoint, Keynote, Markdown presentation, etc) to mycourses.
 * [Instructions: how to upload the video file to mycourses](https://www.youtube.com/embed/oY7HoQm4iCw)
