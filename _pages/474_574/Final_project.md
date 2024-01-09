@@ -1,3 +1,14 @@
+---
+permalink: /teaching/474574FinalProject
+title: ""
+last_modified_at: 2024-1-9
+categories:
+  - Pages
+tags:
+  - teaching
+  - links
+---
+
 # Final Project Report and Final Presentation - Instructions
 ## MTH474/MTH574 -  Numerical Optimization
 
