@@ -35,8 +35,7 @@ For example, optimization algorithms used in machine learning (SGDM, ADAM, Neste
 software package in optimization, etc. 
 
 ## The Final Report: 
-* The final report must be in pdf format (a
-maximum of 5 pages (for undergraduates) and 8 pages (for graduates)). This is worth 25% of your final grade.
+* The final report must be in pdf format (a maximum of 5 pages (for undergraduates) and 8 pages (for graduates)). <!--- This is worth 25% of your final grade. -->
 * Your final report should be in the form more or less of an academic paper. It contains a title, author name and
 affiliation, abstract, introduction, numerical results, a bit of plot/graph and visualizations, conclusion, and
 references.
