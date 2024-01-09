@@ -13,7 +13,8 @@ tags:
 * [MTH 150](https://catalog.umassd.edu/preview_course_nopop.php?catoid=73&coid=241774) Precalculus (Fall 2023)
 * [MTH 331](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171120) Probability (Fall 2021, Fall 2022, Spring 2023, Fall 2023)
 * [MTH 472](https://catalog.umassd.edu/preview_course_nopop.php?catoid=47&coid=171132)/[572](https://catalog.umassd.edu/preview_course_nopop.php?catoid=64&coid=223426) Numerical Methods for PDEs (Spring 2019, Spring 2020)
-* [MTH 474](https://catalog.umassd.edu/preview_course_nopop.php?catoid=12&coid=43546)[/574](474_574/Final_project) Numerical Optimization (Spring 2024 - [Final Project](474_574/Final_project.md))
+* [MTH 474](https://catalog.umassd.edu/preview_course_nopop.php?catoid=12&coid=43546)[/574] Numerical Optimization (Spring 2024)
+<!--- * [MTH 474](https://catalog.umassd.edu/preview_course_nopop.php?catoid=12&coid=43546)[/574](474_574/Final_project) Numerical Optimization (Spring 2024 - [Final Project](474_574/Final_project.md))-->
 * [EAS 502](https://catalog.umassd.edu/preview_course_nopop.php?catoid=39&coid=136248) Numerical Methods (Fall 2018, Fall 2019, Spring 2021, Fall 2022)
 <!--- * EAS 502 Numerical Methods (Fall 2018, Fall 2019, [Spring 2021](EAS502)) -->
 
