@@ -15,9 +15,18 @@ tags:
 
 - [Problem 1](#problem-1)
 - [Problem 2](#problem-2)
+- [Problem 3](#problem-3)
+- [Problem 4](#problem-4)
+- [Problem 5](#problem-5)
+- [Problem 6](#problem-6)
+- [Problem 7](#problem-7)
+- [Problem 8](#problem-8)
+- [Problem 9](#problem-9)
+- [Problem 10](#problem-10)
 
 
 
+---
 ---
 ## Problem 1
 
@@ -57,4 +66,102 @@ Include any additional notes or comments related to the problem. (TBD)
 
 
 ---
+---
 ## Problem 2
+
+
+
+
+
+---
+---
+## Problem 3
+
+
+
+
+
+
+---
+---
+## Problem 4
+
+
+
+
+
+
+
+---
+---
+## Problem 5
+
+
+
+
+
+
+
+---
+---
+## Problem 5
+
+
+
+
+
+
+
+---
+---
+## Problem 6
+
+
+
+
+
+
+
+---
+---
+## Problem 7
+
+
+
+
+
+
+
+---
+---
+## Problem 8
+
+
+
+
+
+
+
+---
+---
+## Problem 9
+
+
+
+
+
+
+
+---
+---
+## Problem 10
+
+
+
+
+
+
+
+---
+---
+## Problem 6
