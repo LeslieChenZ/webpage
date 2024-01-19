@@ -15,7 +15,6 @@ tags:
 
 - [Problem 1](#problem-1)
 - [Problem 2](#problem-2)
-<!-- 
 - [Problem 3](#problem-3)
 - [Problem 4](#problem-4)
 - [Problem 5](#problem-5)
@@ -24,7 +23,6 @@ tags:
 - [Problem 8](#problem-8)
 - [Problem 9](#problem-9)
 - [Problem 10](#problem-10)
- -->
 
 
 ---
@@ -69,7 +67,15 @@ Include any additional notes or comments related to the problem. (TBD)
 ---
 ---
 ## Problem 2
+find and classify the critical points (local min/max or saddles) of the functions:
 
+### a. 
+$$ f(x, y) = x^4 + y^4 - 4xy + 1 $$
+
+### b. 
+$$ g(x, y) = 10x^2y - 5x^2 - 4y^2 - x^4 - 2y^4 $$
+
+Convince yourself by plotting the functions with Mathematica using `Plot3D` and `ContourPlot`. Provide visualizations and analyze the critical points to enhance your understanding of the problem. Are there any specific insights, guidance, or clues that can aid in finding the solution? Mention them to enhance the comprehensibility of your analysis.
 
 
 
@@ -78,8 +84,7 @@ Include any additional notes or comments related to the problem. (TBD)
 ---
 ## Problem 3
 
-
-
+Find the extrema values, both absolute maximums and absolute minimums, of the function $f(x,y) = x^2+2y^2$ within the constraint of the disk $x^2+y^2 \leq 1$. Utilize Mathematica to visually represent the problem and validate your conclusions.
 
 
 
