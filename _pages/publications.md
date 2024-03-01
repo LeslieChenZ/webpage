@@ -15,7 +15,7 @@ tags:
 
 * R. Kalelkar, H. Xu, D. Nguyen, and Z. Chen, Generalist CEOs and the Readability of 10-K Reports, Advances in Accounting, accepted (2023).
 
-* L. Mu and Z. Chen, High Order IMEX Stochastic Galerkin Schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Communications on Applied Mathematics and Computation, accepted (2022).[DOI](https://doi.org/10.1007/s42967-023-00249-x), [full-text (view only)](https://rdcu.be/ddPDr) <!-- [Preprint](publications/gPC-DG-AP_highorder_IMEX.pdf) -->
+* Z. Chen and L. Mu, High Order IMEX Stochastic Galerkin Schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Communications on Applied Mathematics and Computation, accepted (2022).[DOI](https://doi.org/10.1007/s42967-023-00249-x), [full-text (view only)](https://rdcu.be/ddPDr) <!-- [Preprint](publications/gPC-DG-AP_highorder_IMEX.pdf) -->
 
 * Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, 2022, 15(4): 669-686. [DOI](https://doi.org/10.3934/dcdss.2021070), [Full Text(html)](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021070?viewType=html).<!--- ,[arXiv](https://arxiv.org/pdf/2102.09157.pdf). -->
 
