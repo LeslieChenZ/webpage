@@ -13,7 +13,7 @@ tags:
 # Publications 
 [Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
 
-* R. Kalelkar, H. Xu, D. Nguyen, and Z. Chen, Generalist CEOs and the Readability of 10-K Reports, Advances in Accounting, accepted (2023).
+* R. Kalelkar, H. Xu, D. Nguyen, and Z. Chen, Generalist CEOs and the Readability of 10-K Reports, Advances in Accounting (2023). [Full Text(HTML)](https://www.sciencedirect.com/science/article/pii/S0882611023000391?casa_token=eRs2I3aoetgAAAAA:hTYRY1vXmbDdaM-WgXtb_RGE67_gKgbzvfIfc5CCnCSAxg9jwSSb6KZ6MzxfNBVoVg8b3ggdIb8)
 
 * Z. Chen and L. Mu, High Order IMEX Stochastic Galerkin Schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Communications on Applied Mathematics and Computation, accepted (2022).[DOI](https://doi.org/10.1007/s42967-023-00249-x), [full-text (view only)](https://rdcu.be/ddPDr) <!-- [Preprint](publications/gPC-DG-AP_highorder_IMEX.pdf) -->
 
