@@ -33,14 +33,14 @@ My research is deeply rooted in the domains of scientific computing and numerica
 My research pursuits converge into four focal areas: (_Click each item for project details._)
 
 * <details> <summary><em><strong>Precision Enhancement for Nonsmooth Problems</strong></em>: A primary focus is on augmenting the accuracy of numerical simulations, particularly for functions characterized by singularities. Central to this endeavor are pioneering reconstruction techniques designed to substantially bolster precision. Additionally, I’m actively exploring the integration of neural networks to automate the detection of singularities from spectral data, promising further refinement of simulation accuracy.</summary><ul>
-     <li><details><summary>Project 1: Postprocessing techniques</summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_spectral2016.pdf">slides</a> </details> </li>
+     <li><details open><summary>Project 1: Postprocessing techniques</summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_spectral2016.pdf">slides "Recovering exponential accuracy in spectral methods involving piecewise smooth functions"</a> </details> </li>
      <li><details><summary>Project 2: Solution-enriched numerical methods</summary> To be added.  </details></li>
      <li><details><summary>Project 3: Neural network-base singularity detectors</summary> To be added.  </details></li>
 </ul> <!-- End -->
 </details>
 
 * <details> <summary><em><strong>Kinetic Simulations</strong></em>: Within the domain of kinetic models, my research is dedicated to optimizing numerical methods to harness their full potential. This includes delving into multiscale convergence properties, strategic utilization of stochastic Galerkin methods, and the deliberate incorporation of deep neural networks to enhance the efficiency and accuracy of kinetic system simulations.</summary><ul>
-    <li><details><summary>Project 1: Numerical methods for simulating linear kinetic models in semiconductor devices</summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_WPI.pdf">slides</a> </details> </li>
+    <li><details open><summary>Project 1: Numerical methods for simulating linear kinetic models in semiconductor devices</summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_WPI.pdf">slides "Multiscale Convergence Properties for Spectral Approximations of a Model Kinetic Equation"</a> </details> </li>
     <li><details><summary>Project 2: Numerical methods for kinetic models with uncertainties. </summary> To be added.  </details></li>
     <li><details><summary>Project 3: Fast solvers</summary> To be added.  </details></li>
 </ul> <!-- End -->
@@ -48,7 +48,7 @@ My research pursuits converge into four focal areas: (_Click each item for proje
  
 * <details> <summary><em><strong>High-Order Numerical Methods</strong></em>: I specialize in high-order numerical methods, with a specific emphasis on crafting third-order maximum-principle-satisfying direct discontinuous Galerkin (DDG) methods tailored for time-dependent equations. These methods not only meet exacting accuracy criteria but also adhere to fundamental principles. I also leverage advanced techniques such as Weighted Essentially Non-Oscillatory (WENO) methods, vital for ensuring precise solutions in the realm of time-dependent hyperbolic problems.</summary><ul>
     <li><details><summary>Project 1: High-order numerical methods for PDEs and their applications</summary> To be added.  </details></li>
-    <li><details><summary>Project 2: Structure-preserving high-order numerical schemes for time-dependent PDEs </summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_20160302_UTK_cam.pdf">slides</a> </details></li>
+    <li><details open><summary>Project 2: Structure-preserving high-order numerical schemes for time-dependent PDEs </summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_20160302_UTK_cam.pdf">slides "Third order Maximum-Principle-Satisfying Direct DG methods for convection diffusion equations on unstructured triangular mesh"</a> </details></li>
 <!--   <details><summary>Project 3: Interpolation methods for parametric differential equation </summary> To be added.  </details> --> 
 </ul> <!-- End -->
 </details>
