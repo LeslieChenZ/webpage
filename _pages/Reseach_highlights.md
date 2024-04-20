@@ -71,7 +71,9 @@ My research pursuits converge into four focal areas: (_Click each item for proje
  
 * <details> <summary><em><strong>High-Order Numerical Methods</strong></em>: I specialize in high-order numerical methods, with a specific emphasis on crafting third-order maximum-principle-satisfying direct discontinuous Galerkin (DDG) methods tailored for time-dependent equations. These methods not only meet exacting accuracy criteria but also adhere to fundamental principles. I also leverage advanced techniques such as Weighted Essentially Non-Oscillatory (WENO) methods, vital for ensuring precise solutions in the realm of time-dependent hyperbolic problems.</summary><ul>
     <li><details><summary>Project 1: High-order numerical methods for PDEs and their applications</summary> To be added.  </details></li>
-    <li><details open><summary>Project 2: Structure-preserving high-order numerical schemes for time-dependent PDEs </summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_20160302_UTK_cam.pdf">slides "Third order Maximum-Principle-Satisfying Direct DG methods for convection diffusion equations on unstructured triangular mesh"</a> </details></li>
+    <li><details open><summary>Project 2: Structure-preserving high-order numerical schemes for time-dependent PDEs </summary> To be added.  
+      <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_20160302_UTK_cam.pdf">slides "Third order Maximum-Principle-Satisfying Direct DG methods for convection diffusion equations on unstructured triangular mesh"</a> 
+    </details></li>
 </ul> 
 </details>
 
@@ -83,6 +85,9 @@ My research pursuits converge into four focal areas: (_Click each item for proje
 
 Looking forward, my research trajectory remains laser-focused on the advancement of innovative numerical methods. I’m poised to seamlessly integrate machine learning and uncertainty quantification into my research arsenal, with the overarching objective of furnishing pragmatic solutions to some of the most intricate challenges confronting our world. In this enduring voyage, I remain steadfastly committed to advancing the scientific foundations that underpin global progress.
 
+https://github.com/LeslieChenZ/webpage/assets/50176086/9085d2ab-f776-4a1e-8e44-005636517684
+
+https://github.com/LeslieChenZ/webpage/assets/50176086/e751a25e-4c53-42c5-9344-aab8b5c8f551
 
 <!--
 * High order numerical methods
