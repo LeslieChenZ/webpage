@@ -61,19 +61,17 @@ tags:
   Abstract: To be added.
 </details>
 
-* Z. Chen and C.-W. Shu, Recovering exponential accuracy in Fourier spectral methods involving piecewise smooth functions with unbounded derivative singularities, Journal of Scientific Computing, v65(2015), pp.1145-1165. [DOI](https://doi.org/10.1007/s10915-015-0011-x), [Preprint](https://www.brown.edu/research/projects/scientific-computing/sites/brown.edu.research.projects.scientific-computing/files/uploads/Recovering%20exponential%20accuracy%20in%20Fourier%20spectral%20methods%20involving%20piecewise%20smooth%20functions%20with%20unbounded%20derivative%20singularities_0.pdf)
-* <details> <summary> title <a href="link">DOI</a></summary>
+* <details> <summary> Z. Chen and C.-W. Shu, Recovering exponential accuracy in Fourier spectral methods involving piecewise smooth functions with unbounded derivative singularities, Journal of Scientific Computing, v65(2015), pp.1145-1165.  <a href="https://doi.org/10.1007/s10915-015-0011-x">DOI</a></summary>
   Abstract: To be added.
 </details>
 
-* Z. Chen and C.-W. Shu, Recovering exponential accuracy from collocation point values of smooth functions with end-point singularities, Journal of Computational and Applied Mathematics, v265 (2014), pp.83-95. [DOI](https://doi.org/10.1016/j.cam.2013.09.029), [Preprint](https://www.brown.edu/research/projects/scientific-computing/sites/brown.edu.research.projects.scientific-computing/files/uploads/Recovering%20exponential.pdf)
-* <details> <summary> title <a href="link">DOI</a></summary>
+* <details> <summary> Z. Chen and C.-W. Shu, Recovering exponential accuracy from collocation point values of smooth functions with end-point singularities, Journal of Computational and Applied Mathematics, v265 (2014), pp.83-95.  <a href="https://doi.org/10.1016/j.cam.2013.09.029">DOI</a></summary>
   Abstract: To be added.
 </details>
 
-
-* <details> <summary> title <a href="link">DOI</a>, <a href="link">Full Text(HTML)</a>, <a href="link">arXiv</a>, <a href="link">Preprint</a></summary>
+<!--
+* <details> <summary> title <a href="link">DOI</a>, <a href="link">Full Text(HTML)</a>, <a href="link">arXiv</a><</summary>
   Abstract: To be added.
 </details>
-
+-->
 
