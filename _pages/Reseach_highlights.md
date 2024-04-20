@@ -1,6 +1,6 @@
 ---
-permalink: /research_highlights/
-title: ""
+permalink: /research/highlights/
+title: "Research Highlights"
 last_modified_at: 2024-4-19T11:00:00-05:00
 categories:
   - pages
