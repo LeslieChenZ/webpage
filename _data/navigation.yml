@@ -3,8 +3,8 @@ main:
     url: /Short Bio/
   - title: "Research"
     url: /research/
-  - title: "Research Highlights"
-    url: /reseach_highlights/
+  - title: "Research/Highlights"
+    url: /research/highlights/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
