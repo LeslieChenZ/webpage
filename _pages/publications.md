@@ -21,11 +21,11 @@ tags:
 </details>
 
 * <details> <summary> Z. Chen and L. Mu, High Order IMEX Stochastic Galerkin Schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Communications on Applied Mathematics and Computation, accepted (2022). <a href="https://doi.org/10.1007/s42967-023-00249-x">DOI</a>, <a href="https://rdcu.be/ddPDr">full-text (view only)</a>.</summary>
-  Abstract: To be added.
+  Abstract: In this paper, we consider the high order method for solving the linear transport equations under diffusive scaling and with random inputs. To tackle the randomness in the problem, the stochastic Galerkin method of the generalized polynomial chaos approach has been employed. Besides, the high order implicit-explicit scheme under the micro-macro decomposition framework and the discontinuous Galerkin method have been employed. We provide several numerical experiments to validate the accuracy and the stochastic asymptotic-preserving property.
 </details>
 
 * <details> <summary> Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, 2022, 15(4): 669-686.  <a href="https://doi.org/10.3934/dcdss.2021070">DOI</a>, <a href="https://www.aimsciences.org/article/doi/10.3934/dcdss.2021070?viewType=html">Full Text(HTML)</a>, <a href="https://arxiv.org/pdf/2102.09157.pdf">arXiv</a></summary>
-  Abstract: To be added.
+  Abstract: In this paper, we study linear transport model by adopting deep learning method, in particular deep neural network (DNN) approach. While the interest of using DNN to study partial differential equations is arising, here we adapt it to study kinetic models, in particular the linear transport model. Moreover, theoretical analysis on the convergence of neural network and its approximated solution towards analytic solution is shown. We demonstrate the accuracy and effectiveness of the proposed DNN method in numerical experiments.
 </details>
 
 * <details> <summary> L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, Commun. Appl. Math. Comput. 4, 227–249 (2022).  <a href="https://doi.org/10.1007/s42967-020-00104-3">DOI</a>, <a href="publications/LDG_FDE_Springer_repo.pdf">Preprint</a></summary>
