@@ -73,6 +73,19 @@ My research pursuits converge into four focal areas: (_Click each item for proje
     <li><details><summary>Project 1: High-order numerical methods for PDEs and their applications</summary> To be added.  </details></li>
     <li><details open><summary>Project 2: Structure-preserving high-order numerical schemes for time-dependent PDEs </summary> To be added.  
       <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_20160302_UTK_cam.pdf">slides "Third order Maximum-Principle-Satisfying Direct DG methods for convection diffusion equations on unstructured triangular mesh"</a> 
+      <details open><summary>
+        <svg aria-hidden height="16" width="16" viewBox="0 0 16 16" version="1.1" class="octicon octicon-device-camera-video"><path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"></path></svg>
+        <span aria-label="Video description Custom Title">Nonlinear porous medium equation</span>
+        <span class="dropdown-caret"></span>
+      </summary>
+      <video muted controls style="max-height:640px;" src="https://github.com/LeslieChenZ/webpage/assets/50176086/9085d2ab-f776-4a1e-8e44-005636517684"></video>
+      <details open><summary>
+        <svg aria-hidden height="16" width="16" viewBox="0 0 16 16" version="1.1" class="octicon octicon-device-camera-video"><path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"></path></svg>
+        <span aria-label="Video description Custom Title">Incompressible Navier–Stokes equation - Vortex patch problem</span>
+        <span class="dropdown-caret"></span>
+      </summary>
+      <video muted controls style="max-height:640px;" src="https://github.com/LeslieChenZ/webpage/assets/50176086/e751a25e-4c53-42c5-9344-aab8b5c8f551"></video>
+    </details>
     </details></li>
 </ul> 
 </details>
