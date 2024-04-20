@@ -34,14 +34,12 @@ My research pursuits converge into four focal areas: (_Click each item for proje
 * <details> <summary><em><strong>Precision Enhancement for Nonsmooth Problems</strong></em>: A primary focus lies in enhancing the accuracy of numerical simulations, especially for functions featuring singularities. At the core of this effort lies the development and analysis of innovative reconstruction techniques aimed at significantly improving precision and potentially restoring spectral accuracy  from poorly behaving numerical simulation data. Moreover, I am actively investigating the integration of neural networks to automate singularity detection from spectral data, which could lead to additional improvements in simulation accuracy.</summary><ul>
      <li><details open><summary>Project 1: Postprocessing techniques</summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_spectral2016.pdf">slides "Recovering exponential accuracy in spectral methods involving piecewise smooth functions"</a> </details> </li>
      <li><details><summary>Project 2: Solution-enriched numerical methods</summary> To be added.  </details></li>
-     <li><details><summary>Project 3: Neural network-base singularity detectors</summary> To be added.  </details></li></ul> </details>
+     <li><details><summary>Project 3: Neural network-base singularity detectors</summary> To be added.  </details></li></ul></details>
 
 * <details> <summary><em><strong>Kinetic Simulations</strong></em>: Within the domain of kinetic models, my research is committed to maximizing the efficiency and accuracy of numerical methods. This involves exploring multiscale algorithms and hybrid methods through their design and analysis, strategically applying stochastic Galerkin methods, and integrating deep neural networks to enhance the efficiency and accuracy of kinetic system simulations.</summary><ul>
     <li><details open><summary>Project 1: Numerical methods for simulating linear kinetic models - design and analysis</summary> To be added.  <a href="https://lesliechenz.github.io/webpage/_pages/slides/talk_WPI.pdf">slides "Multiscale Convergence Properties for Spectral Approximations of a Model Kinetic Equation"</a> </details> </li>
     <li><details><summary>Project 2: Numerical methods for kinetic models with uncertainties </summary> To be added.  </details></li>
-    <li><details><summary>Project 3: Fast solvers</summary> To be added.  </details></li>
-</ul> 
-</details>
+    <li><details><summary>Project 3: Fast solvers</summary> To be added.  </details></li></ul></details>
  
 * <details> <summary><em><strong>High-Order Numerical Methods</strong></em>:  My expertise lies in high order numerical methods, with a particular focus on crafting and analyzing high order structure-preserving discontinuous Galerkin (DG) finite element methods customized for time-dependent partial differential equations (PDEs). These methods ensure not only high accuracy and efficiency but also alignment with fundamental physical principles. Additionally, I employ advanced techniques like Weighted Essentially Non-Oscillatory (WENO) methods, crucial for guaranteeing precise solutions in time-dependent hyperbolic problems.</summary><ul>
     <li><details><summary>Project 1: High-order numerical methods for various PDEs and their applications</summary> To be added.  </details></li>
@@ -60,17 +58,13 @@ My research pursuits converge into four focal areas: (_Click each item for proje
       </summary>
       <video muted controls style="max-height:640px;" src="https://github.com/LeslieChenZ/webpage/assets/50176086/e751a25e-4c53-42c5-9344-aab8b5c8f551"></video>
     </details>
-    </details></li>
-</ul> 
-</details>
+    </details></li></ul></details>
 
 * <details> <summary><em><strong>Cross-Disciplinary Collaborations</strong></em>: My research philosophy extends beyond conventional mathematical boundaries. Collaborating with experts across diverse fields enables me to apply mathematical expertise to real-world challenges.</summary><ul>
     <li><details open><summary>Project 1: <em>Application in Finance</em> </summary> 
       Teaming up with experts in accounting and finance, I've employed data processing techniques to investigate the influence of CEOs on the readability of financial reports. This exploration has revealed invaluable insights into corporate governance.   </details></li>
     <li><details open><summary>Project 2: <em>Application in Civil Engineering</em></summary> 
-      In collaboration with colleagues in civil engineering, we're leveraging cutting-edge machine learning techniques to uncover the intricate relationships between geometric descriptors and material behavior. This effort aims to deepen our understanding of material microstructure and fracture properties, with significant implications for materials science.  </details></li>
-</ul> 
-</details>
+      In collaboration with colleagues in civil engineering, we're leveraging cutting-edge machine learning techniques to uncover the intricate relationships between geometric descriptors and material behavior. This effort aims to deepen our understanding of material microstructure and fracture properties, with significant implications for materials science.  </details></li></ul></details>
 
 Looking forward, my research trajectory remains laser-focused on the advancement of innovative numerical methods. I’m poised to seamlessly integrate machine learning and uncertainty quantification into my research arsenal, with the overarching objective of furnishing pragmatic solutions to some of the most intricate challenges confronting our world. In this enduring voyage, I remain steadfastly committed to advancing the scientific foundations that underpin global progress.
 
