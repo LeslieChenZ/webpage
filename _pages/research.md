@@ -57,8 +57,7 @@ My research pursuits converge into four focal areas: (_Click each item for proje
         <span class="dropdown-caret"></span>
       </summary>
       <video muted controls style="max-height:640px;" src="https://github.com/LeslieChenZ/webpage/assets/50176086/e751a25e-4c53-42c5-9344-aab8b5c8f551"></video>
-    </details>
-    </details></li></ul></details>
+    </details></details></li></ul></details>
 
 * <details> <summary><em><strong>Cross-Disciplinary Collaborations</strong></em>: My research philosophy extends beyond conventional mathematical boundaries. Collaborating with experts across diverse fields enables me to apply mathematical expertise to real-world challenges.</summary><ul>
     <li><details open><summary>Project 1: <em>Application in Finance</em> </summary> 
