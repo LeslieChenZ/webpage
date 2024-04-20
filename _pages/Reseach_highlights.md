@@ -12,28 +12,26 @@ tags:
 # Research Highlights
 My primary research objective is to enhance the accuracy, efficiency, and applicability of numerical methods for solving intricate mathematical models. 
 
-<details>
-<summary>Numerical simulations for nonsmooth problems</summary>
-<details>
-<summary>Section A.B</summary>
-</details>
-</details>
-
+* <details> <summary>Numerical simulations for nonsmooth problems</summary>
+  At the core of my research lies the goal of resolving the issue of low accuracy encountered in functions with singularities. I have developed innovative reconstruction methods that significantly enhance the accuracy of simulations of problems with singular data. Additionally, I have introduced a singularity-enriched basis for LDG methods, designed specifically to address the challenges posed by fractional diffusion equations featuring non-smooth solutions. More recently, I have been working on a sophisticated neural network-based approach aimed at automating the detection of singularities from spectral data.
+  <details><summary>Project 1: Postprocessing techniques</summary> To be added.  </details>
+  <details><summary>Project 2: Solution-enriched numerical methods</summary> To be added.  </details>
+  <details><summary>Project 3: Neural network-base singularity detectors</summary> To be added.  </details>
 <details>
 <summary>Numerical methods for kinetic models</summary>
-<details>
-<summary>Section A.B</summary>
-</details>
+  <details>
+  <summary>Section A.B</summary>
+  </details>
 </details>
 
-<details>
+* <details>
 <summary>High-order numerical methods</summary>
 <details>
 <summary>Section A.B</summary>
 </details>
 </details>
 
-<details>
+* <details>
 <summary>Mathematical applications across diverse disciplines</summary>
 <details>
 <summary>Section A.B</summary>
