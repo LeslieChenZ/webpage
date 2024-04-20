@@ -13,7 +13,7 @@ tags:
 # Publications 
 [Google Scholar](https://scholar.google.com/citations?user=Steh0SsAAAAJ&hl=en)
 
-* <details> <summary>Z. Chen, S. Lee, and L. Mu, Automated Detection and Characterization of Singularities in Functions using Neural Networks - from FFT Signals", submitted (2024). </summary>
+* <details> <summary>Z. Chen, S. Lee, and L. Mu, Automated Detection and Characterization of Singularities in Functions using Neural Networks - from FFT Signals, submitted (2024). </summary>
   Abstract: To be added. </details>
 
 * <details> <summary>R. Kalelkar, H. Xu, D. Nguyen, and Z. Chen, Generalist CEOs and the Readability of 10-K Reports, Advances in Accounting (2023). <a href="https://www.sciencedirect.com/science/article/pii/S0882611023000391?casa_token=eRs2I3aoetgAAAAA:hTYRY1vXmbDdaM-WgXtb_RGE67_gKgbzvfIfc5CCnCSAxg9jwSSb6KZ6MzxfNBVoVg8b3ggdIb8">Full Text(HTML)</a></summary>
