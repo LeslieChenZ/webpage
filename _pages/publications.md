@@ -41,74 +41,39 @@ tags:
   Abstract: To be added.
 </details>
 
-* Z. Chen and C. D. Hauck, Multiscale convergence properties for spectral approximations of a model kinetic equation, Mathematics of Computation 88.319 (2019): 2257-2293. [DOI](https://doi.org/10.1090/mcom/3399), [Preprint](https://www.ki-net.umd.edu/pubs/files/paper_iso_clean.pdf)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> Z. Chen and C. D. Hauck, Multiscale convergence properties for spectral approximations of a model kinetic equation, Mathematics of Computation 88.319 (2019): 2257-2293. <a href="https://doi.org/10.1090/mcom/3399">DOI</a>, <a href="https://www.ki-net.umd.edu/pubs/files/paper_iso_clean.pdf">Preprint</a></summary>
   Abstract: To be added.
 </details>
 
-* Z. Chen, L. Liu and L. Mu, DG-IMEX Stochastic Galerkin schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Journal of Scientific Computing (2017), 73(2), 566-592. [DOI](https://doi.org/10.1007/s10915-017-0439-2), [Preprint](https://www.osti.gov/pages/servlets/purl/1356966)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> Z. Chen, L. Liu and L. Mu, DG-IMEX Stochastic Galerkin schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Journal of Scientific Computing (2017), 73(2), 566-592.  <a href="https://doi.org/10.1007/s10915-017-0439-2">DOI</a>, <a href="https://www.osti.gov/pages/servlets/purl/1356966">Preprint</a> </summary>
   Abstract: To be added.
 </details>
 
-* H. Huang, Z. Chen, J. Li and J. Yan, Direct discontinuous Galerkin method and its variations for second order elliptic equations, Journal of Scientific Computing (2017), 70(2), 744-765. [DOI](https://doi.org/10.1007/s10915-016-0264-z), [Preprint](https://faculty.sites.iastate.edu/jyan/files/inline-files/yan-elliptic.pdf)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> H. Huang, Z. Chen, J. Li and J. Yan, Direct discontinuous Galerkin method and its variations for second order elliptic equations, Journal of Scientific Computing (2017), 70(2), 744-765. <a href="https://doi.org/10.1007/s10915-016-0264-z">DOI</a>, <a href="https://faculty.sites.iastate.edu/jyan/files/inline-files/yan-elliptic.pdf">Preprint</a></summary>
   Abstract: To be added.
 </details>
 
-* Z. Chen, H. Huang and J. Yan, Third order Maximum-Principle-Satisfying Direct discontinuous Galerkin methods for time dependent convection diffusion equations on unstructured triangular meshes, Journal of Computational Physics, v308(2016), pp.198-217. [DOI](https://doi.org/10.1016/j.jcp.2015.12.039), [Preprint](https://faculty.sites.iastate.edu/jyan/files/inline-files/yan-MPStriMesh.pdf)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> Z. Chen, H. Huang and J. Yan, Third order Maximum-Principle-Satisfying Direct discontinuous Galerkin methods for time dependent convection diffusion equations on unstructured triangular meshes, Journal of Computational Physics, v308(2016), pp.198-217.  <a href="https://doi.org/10.1016/j.jcp.2015.12.039">DOI</a>, <a href="https://faculty.sites.iastate.edu/jyan/files/inline-files/yan-MPStriMesh.pdf">Preprint</a></summary>
   Abstract: To be added.
 </details>
 
-* Y. Chen, Z. Chen, Y. Cheng, A. Gillman and F. Li, Study of Discrete Scattering Operators for Some Linear Kinetic Models, S. C. Brenner (Editor), In Topics in Numerical Partial Differential Equations and Scientific Computing, Springer-Verlag New York, IMA Volumes in Mathematics and its Applications, Vol. 160(2016), pp.99-136. [DOI](https://doi.org/10.1007/978-1-4939-6399-7_5), [Preprint](http://homepages.rpi.edu/~lif/papers/paper_wham.pdf)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> Y. Chen, Z. Chen, Y. Cheng, A. Gillman and F. Li, Study of Discrete Scattering Operators for Some Linear Kinetic Models, S. C. Brenner (Editor), In Topics in Numerical Partial Differential Equations and Scientific Computing, Springer-Verlag New York, IMA Volumes in Mathematics and its Applications, Vol. 160(2016), pp.99-136.  <a href="https://doi.org/10.1007/978-1-4939-6399-7_5">DOI</a>, <a href="https://web.archive.org/web/20160806033359id_/http://homepages.rpi.edu:80/~lif/papers/paper_wham.pdf">Preprint</a></summary>
   Abstract: To be added.
 </details>
 
 * Z. Chen and C.-W. Shu, Recovering exponential accuracy in Fourier spectral methods involving piecewise smooth functions with unbounded derivative singularities, Journal of Scientific Computing, v65(2015), pp.1145-1165. [DOI](https://doi.org/10.1007/s10915-015-0011-x), [Preprint](https://www.brown.edu/research/projects/scientific-computing/sites/brown.edu.research.projects.scientific-computing/files/uploads/Recovering%20exponential%20accuracy%20in%20Fourier%20spectral%20methods%20involving%20piecewise%20smooth%20functions%20with%20unbounded%20derivative%20singularities_0.pdf)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> title <a href="link">DOI</a></summary>
   Abstract: To be added.
 </details>
 
 * Z. Chen and C.-W. Shu, Recovering exponential accuracy from collocation point values of smooth functions with end-point singularities, Journal of Computational and Applied Mathematics, v265 (2014), pp.83-95. [DOI](https://doi.org/10.1016/j.cam.2013.09.029), [Preprint](https://www.brown.edu/research/projects/scientific-computing/sites/brown.edu.research.projects.scientific-computing/files/uploads/Recovering%20exponential.pdf)
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> title <a href="link">DOI</a></summary>
   Abstract: To be added.
 </details>
 
 
-* <details> <summary> title <a href="link">Full Text(HTML)</a></summary>
+* <details> <summary> title <a href="link">DOI</a>, <a href="link">Full Text(HTML)</a>, <a href="link">arXiv</a>, <a href="link">Preprint</a></summary>
   Abstract: To be added.
 </details>
 
 
-
-<!--
-* Z. Chen, S. Lee, and L. Mu, Automated Detection and Characterization of Singularities in Functions using Neural Networks - from FFT Signals", submitted (2024)
-
-* R. Kalelkar, H. Xu, D. Nguyen, and Z. Chen, Generalist CEOs and the Readability of 10-K Reports, Advances in Accounting (2023). [Full Text(HTML)](https://www.sciencedirect.com/science/article/pii/S0882611023000391?casa_token=eRs2I3aoetgAAAAA:hTYRY1vXmbDdaM-WgXtb_RGE67_gKgbzvfIfc5CCnCSAxg9jwSSb6KZ6MzxfNBVoVg8b3ggdIb8)
-
-* Z. Chen and L. Mu, High Order IMEX Stochastic Galerkin Schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Communications on Applied Mathematics and Computation, accepted (2022).[DOI](https://doi.org/10.1007/s42967-023-00249-x), [full-text (view only)](https://rdcu.be/ddPDr) <!-- [Preprint](publications/gPC-DG-AP_highorder_IMEX.pdf) -->
-
-* Z. Chen, L. Liu, and L. Mu, Solving the linear transport equation by a deep neural network approach, Discrete and Continuous Dynamical Systems Series S, 2022, 15(4): 669-686. [DOI](https://doi.org/10.3934/dcdss.2021070), [Full Text(html)](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021070?viewType=html).<!--- ,[arXiv](https://arxiv.org/pdf/2102.09157.pdf). -->
-
-* L. Lyu and Z. Chen, Local discontinuous Galerkin methods with novel basis for fractional diffusion equations with non-smooth solutions, Commun. Appl. Math. Comput. 4, 227–249 (2022).  [DOI](https://doi.org/10.1007/s42967-020-00104-3), [Preprint](publications/LDG_FDE_Springer_repo.pdf)
-
-* L. Mu and Z. Chen, A New WENO Weak Galerkin Finite Element Method for Time Dependent Hyperbolic Equations, Applied Numerical Mathematics (2020), 159: 106-124. [DOI](https://doi.org/10.1016/j.apnum.2020.09.002), [Preprint](publications/WG-Hyperbolic_repo.pdf)
-
-* M. P. Laiu, Z. Chen and C. D. Hauck, A fast implicit solver for semiconductor models in one space dimension, Journal of Computational Physics (2020): 109567. [DOI](https://doi.org/10.1016/j.jcp.2020.109567), [Preprint](https://www.researchgate.net/profile/Zheng_Chen30/publication/333717079_A_fast_implicit_solver_for_semiconductor_models_in_one_space_dimension/links/5de585df299bf10bc33a6765/A-fast-implicit-solver-for-semiconductor-models-in-one-space-dimension.pdf)
-
-* Z. Chen and C. D. Hauck, Multiscale convergence properties for spectral approximations of a model kinetic equation, Mathematics of Computation 88.319 (2019): 2257-2293. [DOI](https://doi.org/10.1090/mcom/3399), [Preprint](https://www.ki-net.umd.edu/pubs/files/paper_iso_clean.pdf)
-
-* Z. Chen, L. Liu and L. Mu, DG-IMEX Stochastic Galerkin schemes for Linear Transport Equation with Random Inputs and Diffusive Scalings, Journal of Scientific Computing (2017), 73(2), 566-592. [DOI](https://doi.org/10.1007/s10915-017-0439-2), [Preprint](https://www.osti.gov/pages/servlets/purl/1356966)
-
-* H. Huang, Z. Chen, J. Li and J. Yan, Direct discontinuous Galerkin method and its variations for second order elliptic equations, Journal of Scientific Computing (2017), 70(2), 744-765. [DOI](https://doi.org/10.1007/s10915-016-0264-z), [Preprint](https://faculty.sites.iastate.edu/jyan/files/inline-files/yan-elliptic.pdf)
-
-* Z. Chen, H. Huang and J. Yan, Third order Maximum-Principle-Satisfying Direct discontinuous Galerkin methods for time dependent convection diffusion equations on unstructured triangular meshes, Journal of Computational Physics, v308(2016), pp.198-217. [DOI](https://doi.org/10.1016/j.jcp.2015.12.039), [Preprint](https://faculty.sites.iastate.edu/jyan/files/inline-files/yan-MPStriMesh.pdf)
-
-* Y. Chen, Z. Chen, Y. Cheng, A. Gillman and F. Li, Study of Discrete Scattering Operators for Some Linear Kinetic Models, S. C. Brenner (Editor), In Topics in Numerical Partial Differential Equations and Scientific Computing, Springer-Verlag New York, IMA Volumes in Mathematics and its Applications, Vol. 160(2016), pp.99-136. [DOI](https://doi.org/10.1007/978-1-4939-6399-7_5), [Preprint](http://homepages.rpi.edu/~lif/papers/paper_wham.pdf)
-
-* Z. Chen and C.-W. Shu, Recovering exponential accuracy in Fourier spectral methods involving piecewise smooth functions with unbounded derivative singularities, Journal of Scientific Computing, v65(2015), pp.1145-1165. [DOI](https://doi.org/10.1007/s10915-015-0011-x), [Preprint](https://www.brown.edu/research/projects/scientific-computing/sites/brown.edu.research.projects.scientific-computing/files/uploads/Recovering%20exponential%20accuracy%20in%20Fourier%20spectral%20methods%20involving%20piecewise%20smooth%20functions%20with%20unbounded%20derivative%20singularities_0.pdf)
-
-* Z. Chen and C.-W. Shu, Recovering exponential accuracy from collocation point values of smooth functions with end-point singularities, Journal of Computational and Applied Mathematics, v265 (2014), pp.83-95. [DOI](https://doi.org/10.1016/j.cam.2013.09.029), [Preprint](https://www.brown.edu/research/projects/scientific-computing/sites/brown.edu.research.projects.scientific-computing/files/uploads/Recovering%20exponential.pdf)
--->
