@@ -69,6 +69,13 @@ My research pursuits converge into four focal areas: (_Click each item for proje
 Looking forward, my research trajectory remains laser-focused on the advancement of innovative numerical methods. I’m poised to seamlessly integrate machine learning and uncertainty quantification into my research arsenal, with the overarching objective of furnishing pragmatic solutions to some of the most intricate challenges confronting our world. In this enduring voyage, I remain steadfastly committed to advancing the scientific foundations that underpin global progress.
 
 
+<!--
+https://github.com/LeslieChenZ/webpage/assets/50176086/0d25da8b-fbdb-4870-8770-4f2fcaace1c7
+
+https://github.com/LeslieChenZ/webpage/assets/50176086/ecbe486f-3e31-49b4-a3f0-a27b5ed349da
+-->
+
+
 
 <!-- [Click here for a poster on research projects.](https://lesliechenz.github.io/webpage/_pages/research_poster_20230223_UMassD_template_CAS_36x56.pdf)  -->
 
