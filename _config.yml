@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Zheng Chen"
   avatar : "/assets/images/headshot2.jpg"
-  bio    : "Assistant professor at UMass Dartmouth" #"My awesome biography constrained to a sentence or two goes here."
+  bio    : "Associate professor at UMass Dartmouth" #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar" # icon: "fab fa-fw fa-google-scholar-square" 
