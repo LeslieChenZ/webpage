@@ -28,9 +28,9 @@ title: "Short Bio"
 
 # Professional Appointments
 
-* Associate Professor, Department of Mathematics, University of Massachusetts Dartmouth, April 2024 - present
+* Associate Professor, Department of Mathematics, University of Massachusetts Dartmouth, Sep 2024 - present
 
-* Assistant Professor, Department of Mathematics, University of Massachusetts Dartmouth, Sep 2018 - April 2024
+* Assistant Professor, Department of Mathematics, University of Massachusetts Dartmouth, Sep 2018 - Aug 2024
 
 * Postdoctoral Research Associate,  Computational and Applied Mathematics Group, Computer Science and Mathematics Division, Oak Ridge National Laboratory, 2016-2018
 
