@@ -1,3 +1,3 @@
-# Extra problems for in-class exercises
+## Extra problems for in-class exercises
 
 1. Problem 1
