@@ -13,10 +13,10 @@ main:
     url: /contact/
   - title: "Links"
     url: /links/
-  - title: "Posts"
-    url: /posts/
   - title: "Tools"
     url: /tools/
+  - title: "Posts"
+    url: /posts/
 #   - title: "Categories"
 #     url: /categories/
 #   - title: "Tags"
