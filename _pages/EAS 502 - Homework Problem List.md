@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/EAS502Hws
-title: ""
+title: "Teaching/EAS502_Homework"
 last_modified_at: 2024-11-10
 categories:
   - Pages
