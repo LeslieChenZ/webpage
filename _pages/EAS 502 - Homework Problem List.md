@@ -10,7 +10,7 @@ tags:
 ---
 
 # EAS 502 - All Homework Problems
-(This is generated for lectures. There might be typos and mistakes. Read with your judgment. You are welcome to send an email about them to zchen2@umassd.edu. This webpage is still under construction and will be updated occasionally.)
+(This is generated for lectures. There might be typos and mistakes. Read with your judgment. You are welcome to send an email about them to **_zchen2@umassd.edu_**. This webpage is still under construction and will be updated occasionally.)
 
 **Last updated on 2024-11-10**
 
@@ -22,6 +22,32 @@ tags:
     - [Homework-Problem-3](#homework-problem-3)
     - [Homework-Problem-4](#homework-problem-4)
     - [Homework-Problem-5](#homework-problem-5)
+- Section 2: Interpolation
+    - [Homework-Problem-6](#homework-problem-6)
+    - [Homework-Problem-7](#homework-problem-7)
+    - [Homework-Problem-8](#homework-problem-8)
+    - [Homework-Problem-9](#homework-problem-9)
+- Section 3: Differentiation
+    - [Homework-Problem-10](#homework-problem-10)
+    - [Homework-Problem-11](#homework-problem-11)
+- Section 4: Integration
+    - [Homework-Problem-12](#homework-problem-12)
+    - [Homework-Problem-13](#homework-problem-13)
+    - [Homework-Problem-14](#homework-problem-14)
+    - [Homework-Problem-15](#homework-problem-15)
+    - [Homework-Problem-16](#homework-problem-16)
+- Section 5: Approximation
+    - [Homework-Problem-17](#homework-problem-17)
+    - [Homework-Problem-18](#homework-problem-18)
+    - [Homework-Problem-19](#homework-problem-19)
+    - [Homework-Problem-20](#homework-problem-20)
+    - [Homework-Problem-21](#homework-problem-21)
+    - [Homework-Problem-22](#homework-problem-22)
+    - [Homework-Problem-23](#homework-problem-23)
+- Section 6: ODEs-IVP
+    - [Homework-Problem-24](#homework-problem-24)
+    - [Homework-Problem-25](#homework-problem-25)
+    - [Homework-Problem-26](#homework-problem-26)
 
 ---
 ## Section 1: Root Finding
