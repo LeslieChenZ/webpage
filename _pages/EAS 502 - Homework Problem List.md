@@ -1,3 +1,14 @@
+---
+permalink: /teaching/EAS502hws
+title: ""
+last_modified_at: 2024-11-10
+categories:
+  - Pages
+tags:
+  - teaching
+  - links
+---
+
 (This is generated for lectures. There might be typos and mistakes. Read with your judgment. You are welcome to send an email about them to zchen2@umassd.edu. This webpage is still under construction and will be updated occasionally.)
 
 # All Homework Problems
