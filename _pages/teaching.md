@@ -16,7 +16,7 @@ tags:
 * [MTH 474/574](https://catalog.umassd.edu/preview_course_nopop.php?catoid=12&coid=43546) Numerical Optimization (Spring 2024)
 <!--- * [MTH 474](https://catalog.umassd.edu/preview_course_nopop.php?catoid=12&coid=43546)[/574](474_574/Final_project) Numerical Optimization (Spring 2024 - [Final Project](474_574/Final_project.md))-->
 * [EAS 502](https://catalog.umassd.edu/preview_course_nopop.php?catoid=39&coid=136248) Numerical Methods (Fall 2018, Fall 2019, Spring 2021, Fall 2022, Spring 2025)
-<!--- * EAS 502 Numerical Methods (Fall 2018, Fall 2019, [Spring 2021][EAS 502) -->
+<!--- * EAS 502 Numerical Methods (Fall 2018, Fall 2019, [Spring 2021](EAS 502)) -->
 
 # Courses @ ISU
 * [MATH 265H Honors Calculus III](http://catalog.iastate.edu/azcourses/math/#) (Fall 2015)
