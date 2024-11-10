@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/EAS502hws
+permalink: /teaching/EAS502Hws
 title: ""
 last_modified_at: 2024-11-10
 categories:
