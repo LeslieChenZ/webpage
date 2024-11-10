@@ -18,6 +18,10 @@ tags:
 
 - Section 1: Root Finding
     - [Homework-Problem-1](#homework-problem-1)
+    - [Homework-Problem-2](#homework-problem-2)
+    - [Homework-Problem-3](#homework-problem-3)
+    - [Homework-Problem-4](#homework-problem-4)
+    - [Homework-Problem-5](#homework-problem-5)
 
 ---
 ## Section 1: Root Finding
@@ -42,5 +46,48 @@ In each case, use the theory covered in class to justify your reasoning.
 **Hint:** The results of the two functions might be very different.
 
 
+
+### Homework-Problem-2
+
+1. Implement your own subroutines/functions for the five root-finding numerical methods:
+    - Bisection method
+    - Newton's method
+    - Chord method
+    - Secant method
+    - Method of false position
+     
+2. Create and test a subroutine/function that selects a root-finding method based on user input. The function should follow this structure:
+    `[...] = myfzeros(...., method);`
+    where:
+    - `'b'` corresponds to the Bisection method
+    - `'n'` corresponds to Newton's method
+    - `'c'` corresponds to the Chord method
+    - `'s'` corresponds to the Secant method
+    - `'f'` corresponds to the Method of False Position
+     
+3. Apply your implementations to find the root of ==a function for which you know the exact root==.
+    - Plot the convergence error histories for all five methods on the same figure. (**Hint:** The error is the difference between the exact root and the iterates/approximations.)
+    - Comment on and compare the convergence speed (also referred to as "convergence order") of the five methods. It is recommended to plot the convergence speeds in a single figure for comparison.
+**Hint:** In the error history plot, use the iteration number $n$ for the x-axis and the logarithm of the absolute errors of the approximations for the y-axis. You can refer to "Test_zero_convergence" for demonstration.
+
+### Homework-Problem-3
+**(Analysis)** Suppose $p$ is a zero of multiplicity mmm of the function $f(x)$. The iteration function for Newton's method applied to $f(x) = 0$ is given by $g(x) = x - \frac{f(x)}{f'(x)}$. Prove that $$g'(p) = 1 - \frac{1}{m}.$$
+
+### Homework-Problem-4
+**(Analysis)** Consider the function $f(x) = (x - p)^m q(x)$, which has a zero of multiplicity $m$ at $p$. Apply Newton's method to the function $\mu(x) = \frac{f(x)}{f'(x)}$​.
+
+1. What is the convergence order of Newton's method for $\mu(x)$?
+2. Why? Justify/prove your conclusion.
+
+**Hint:** Think about the formula for $\mu(x)$. Is ppp a zero of $\mu(x)$? If so, what is its multiplicity? The conclusion from Problem 3 might be helpful here. Consider the iteration function of Newton's method applied to $\mu(x)$, and use the theorems learned in class to help you reach and justify your conclusion.
+
+### Homework-Problem-5
+Let $f(x) = e^x - x - 1$.
+
+1. **[Coding]** Apply Newton's method to $f(x)$ with the initial guess $p_0 = 1$. Show that the method converges to the root $p = 0$, but not quadratically. Use your code to calculate the first $20$ iterates and compute the numerical orders of convergence. If additional iterations are needed, feel free to do so, but make sure to clearly state the number of iterations used. Comment on your observations.
+    
+2. **[Coding]** Repeat the process for the function $\mu(x) = \frac{f(x)}{f'(x)}$.
+    
+3. **[Analysis]** Use theorems (either from class or conclusions drawn from previous homework) to prove the observations regarding the numerical orders of convergence made in parts 1 and 2.
 
 
