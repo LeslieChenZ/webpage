@@ -1,18 +1,17 @@
----
 main:
-  - title: Short Bio
+  - title: "Short Bio"
     url: /Short Bio/
-  - title: Research
+  - title: "Research"
     url: /research/
-  - title: Publications
+  - title: "Publications"
     url: /publications/
-  - title: Teaching
+  - title: "Teaching"
     url: /teaching/
-  - title: Contact
+  - title: "Contact"
     url: /contact/
-  - title: Links
+  - title: "Links"
     url: /links/
-  - title: Tools
+  - title: "Tools"
     url: /tools/
-  - title: Posts
+  - title: "Posts"
     url: /year-archive/
