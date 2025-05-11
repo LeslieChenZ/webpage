@@ -20,7 +20,7 @@ title: "Short Bio"
 * Ph.D. in Applied Mathematics, 2014, Brown University, RI, USA
   * Advisor: Dr. Chi-Wang Shu
   
-* M.Sc. in Applied Mathematics, 2010, Brown University, RI, USA
+* M.Sc. in Applied Mathematics, 2014, Brown University, RI, USA
 
 * B.Sc. in Pure and Applied Mathematics, 2009, University of Science and Technology of China, Anhui, China
 
