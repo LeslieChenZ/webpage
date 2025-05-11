@@ -1,0 +1,39 @@
+# .github/workflows/pages.yml
+name: Build and Deploy GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write        # needed for deploy
+      id-token: write     # needed by actions/deploy-pages
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'     # or whatever you prefer
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build the site
+        run: bundle exec jekyll build --destination ./_site
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v2
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./_site
+
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v1
