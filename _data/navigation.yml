@@ -24,5 +24,12 @@ main:
 #   - title: "About"
 #     url: /about me/
 
-  # - title: "Teaching/474_574"
-  #   url: /teaching/474575Final_project
+  - title: "Teaching/474_574_Final_Project"
+    url: /teaching/474575Final_project
+
+  - title: "Teaching/331_Extra_Problems"
+    url: /teaching/331Extra
+   
+  - title: "Teaching/EAS502_Homework"
+    url: /teaching/EAS502Hws
+   
