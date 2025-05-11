@@ -3,6 +3,8 @@ main:
     url: /Short Bio/
   - title: "Research"
     url: /research/
+#  - title: "Research/Highlights"
+#    url: /research/highlights/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
@@ -15,3 +17,12 @@ main:
     url: /tools/
   - title: "Posts"
     url: /year-archive/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about me/
+
+  # - title: "Teaching/474_574"
+  #   url: /teaching/474575Final_project
