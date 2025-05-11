@@ -27,7 +27,9 @@ search: false
 # Build settings
 markdown: kramdown
 # remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -61,7 +63,7 @@ plugins:
 author:
   name: Zheng Chen
   avatar: /assets/images/headshot2.jpg
-  bio   : Associate professor at UMass Dartmouth #"My awesome biography constrained to a sentence or two goes here."
+  bio: Associate professor at UMass Dartmouth #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: Google Scholar
       icon: fab fa-fw fa-google-scholar # icon: "fab fa-fw fa-google-scholar-square" 
